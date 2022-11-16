@@ -4,7 +4,7 @@ import Chart from "./Chart";
 const Router = () => {
   return (
     <Routes>
-      <Route path="/Chart" element={<Chart />} />;
+      <Route path="/chart" element={<Chart />} />;
     </Routes>
   );
 };
